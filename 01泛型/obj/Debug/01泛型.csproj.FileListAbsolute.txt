@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\C Sharp\C Shrap\01泛型\bin\Debug\01泛型.exe.config
+C:\Users\Administrator\Desktop\C Sharp\C Shrap\01泛型\bin\Debug\01泛型.exe
+C:\Users\Administrator\Desktop\C Sharp\C Shrap\01泛型\bin\Debug\01泛型.pdb
+C:\Users\Administrator\Desktop\C Sharp\C Shrap\01泛型\obj\Debug\01泛型.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C Sharp\C Shrap\01泛型\obj\Debug\01泛型.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C Sharp\C Shrap\01泛型\obj\Debug\01泛型.exe
+C:\Users\Administrator\Desktop\C Sharp\C Shrap\01泛型\obj\Debug\01泛型.pdb
+E:\Unity Files\Test\CSharp\01泛型\bin\Debug\01泛型.exe.config
+E:\Unity Files\Test\CSharp\01泛型\bin\Debug\01泛型.exe
+E:\Unity Files\Test\CSharp\01泛型\bin\Debug\01泛型.pdb
+E:\Unity Files\Test\CSharp\01泛型\obj\Debug\01泛型.csprojAssemblyReference.cache
+E:\Unity Files\Test\CSharp\01泛型\obj\Debug\01泛型.csproj.CoreCompileInputs.cache
+E:\Unity Files\Test\CSharp\01泛型\obj\Debug\01泛型.exe
+E:\Unity Files\Test\CSharp\01泛型\obj\Debug\01泛型.pdb
