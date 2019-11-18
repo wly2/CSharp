@@ -1,0 +1,7 @@
+E:\Unity Files\Test\CSharp\03属性\bin\Debug\03属性.exe.config
+E:\Unity Files\Test\CSharp\03属性\bin\Debug\03属性.exe
+E:\Unity Files\Test\CSharp\03属性\bin\Debug\03属性.pdb
+E:\Unity Files\Test\CSharp\03属性\obj\Debug\03属性.csproj.CoreCompileInputs.cache
+E:\Unity Files\Test\CSharp\03属性\obj\Debug\03属性.exe
+E:\Unity Files\Test\CSharp\03属性\obj\Debug\03属性.pdb
+E:\Unity Files\Test\CSharp\03属性\obj\Debug\03属性.csprojAssemblyReference.cache
